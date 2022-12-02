@@ -1,6 +1,6 @@
 # Cassava-Disease-Detection
 
-This is a Cassava Leaf Disease Detection model built by me, Vaishnavi Shankar Devadig and my team mates Gautham Kumar R S and Laxmi Naarayanan.
+This is a Cassava Leaf Disease Detection model built by me, Vaishnavi Shankar Devadig and my team mates Gautham Kumar Ramappa Shanmugam and Laxmi Naarayanan.
 
 The model detects five Cassava Leaf conditions:
 1) Cassava Mosaic Disease
